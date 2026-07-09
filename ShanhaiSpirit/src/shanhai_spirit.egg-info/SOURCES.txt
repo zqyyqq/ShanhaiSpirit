@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/shanhai/__init__.py
+src/shanhai/config.py
+src/shanhai/creature.py
+src/shanhai/main.py
+src/shanhai/tracker.py
+src/shanhai_spirit.egg-info/PKG-INFO
+src/shanhai_spirit.egg-info/SOURCES.txt
+src/shanhai_spirit.egg-info/dependency_links.txt
+src/shanhai_spirit.egg-info/entry_points.txt
+src/shanhai_spirit.egg-info/requires.txt
+src/shanhai_spirit.egg-info/top_level.txt
+tests/test_config.py
+tests/test_creature.py
+tests/test_tracker.py

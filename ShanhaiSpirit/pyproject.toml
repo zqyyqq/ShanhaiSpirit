@@ -1,0 +1,128 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shanhai-spirit"
+version = "1.0.0"
+description = "《山海灵识》- 基于计算机视觉的实时体感交互艺术作品"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name = "ShanhaiSpirit Team", email = "your@email.com" }
+]
+maintainers = [
+  { name = "ShanhaiSpirit Team", email = "your@email.com" }
+]
+keywords = ["computer-vision", "hand-gesture", "art-installation", "mediapipe"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: End Users/Desktop",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Operating System :: OS Independent",
+  "Topic :: Multimedia :: Graphics",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.9"
+dependencies = [
+  "opencv-python>=5.0",
+  "mediapipe>=0.10",
+  "numpy>=2.2",
+  "pillow>=10.0",
+  "py5>=0.10",
+]
+
+[project.scripts]
+shanhai-spirit = "shanhai.main:main"
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-cov>=4.0",
+  "ruff>=0.3.0",
+  "black>=24.0",
+  "mypy>=1.8",
+  "types-numpy",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"
+exclude = [
+  ".venv",
+  "__pycache__",
+  "*.pyc",
+]
+
+[tool.ruff.lint]
+select = [
+  "E",
+  "F",
+  "W",
+  "I",
+  "B",
+  "N",
+  "C",
+]
+ignore = [
+  "E501",
+  "C901",
+]
+
+[tool.black]
+line-length = 120
+target-version = ["py39", "py310", "py311", "py312"]
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs
+    | \.git
+    | \.hg
+    | \.mypy_cache
+    | \.nox
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+)
+'''
+
+[tool.mypy]
+python_version = "3.9"
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_calls = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_configs = true
+ignore_missing_imports = true
+exclude = [
+  ".venv",
+  "__pycache__",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"
+pythonpath = ["src", "."]
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+  "src/*/__init__.py",
+]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 60

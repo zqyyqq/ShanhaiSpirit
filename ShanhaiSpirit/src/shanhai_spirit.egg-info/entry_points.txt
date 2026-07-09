@@ -1,0 +1,2 @@
+[console_scripts]
+shanhai-spirit = shanhai.main:main

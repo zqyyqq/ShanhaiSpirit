@@ -1,0 +1,13 @@
+opencv-python>=5.0
+mediapipe>=0.10
+numpy>=2.2
+pillow>=10.0
+py5>=0.10
+
+[dev]
+pytest>=8.0
+pytest-cov>=4.0
+ruff>=0.3.0
+black>=24.0
+mypy>=1.8
+types-numpy

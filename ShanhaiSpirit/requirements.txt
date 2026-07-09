@@ -1,4 +1,8 @@
-py5==0.10.11a0
-opencv-python==4.10.0.84
-mediapipe==0.10.14
+# This file is auto-generated from pyproject.toml
+# Please modify pyproject.toml instead and regenerate this file
+
+opencv-python>=5.0
+mediapipe>=0.10
 numpy>=2.2
+pillow>=10.0
+py5>=0.10

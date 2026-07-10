@@ -1,9 +1,5 @@
 # 《山海灵识》
 
-[![CI/CD](https://github.com/yourusername/ShanhaiSpirit/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ShanhaiSpirit/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/yourusername/ShanhaiSpirit)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](requirements.txt)
-
 ## 项目简介
 
 《山海灵识》是一款实时体感交互艺术装置，以中国上古神话《山海经》为文化载体，通过手部动作召唤和操控上古神兽，实现传统东方美学与实时计算机视觉技术的完美结合。

@@ -1,8 +1,14 @@
-# This file is auto-generated from pyproject.toml
-# Please modify pyproject.toml instead and regenerate this file
+# 《山海灵识》- SIGGRAPH 实时人机交互艺术作品
+# 依赖清单
 
-opencv-python>=5.0
-mediapipe>=0.10
-numpy>=2.2
-pillow>=10.0
-py5>=0.10
+# 核心依赖
+numpy==1.26.4
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+pillow==12.3.0
+
+# 开发依赖（可选）
+pytest==7.4.4
+ruff==0.2.1
+black==24.2.0
+mypy==1.8.0

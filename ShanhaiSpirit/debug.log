@@ -10,3 +10,183 @@
 [32404:44944:0710/134507.348:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
 [32404:43896:0710/134856.018:ERROR:t_layout_border_config.cpp(161)] ParseConfigFile: failed to read file C:\temp\comp_border.cfg
 [32404:43896:0710/134856.018:ERROR:t_layout_border_config.cpp(161)] ParseConfigFile: failed to read file C:\temp\cand_wnd_border.cfg
+[38772:42596:0710/142427.181:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v2.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v2.filemap.sogouime41096646917
+[38772:42596:0710/142427.181:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[38772:42596:0710/142427.181:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[38772:42528:0710/142427.496:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[38772:42596:0710/143108.953:ERROR:t_layout_border_config.cpp(161)] ParseConfigFile: failed to read file C:\temp\comp_border.cfg
+[38772:42596:0710/143108.953:ERROR:t_layout_border_config.cpp(161)] ParseConfigFile: failed to read file C:\temp\cand_wnd_border.cfg
+[22360:21464:0729/202539.033:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[22360:21464:0729/202539.033:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[22360:21464:0729/202539.034:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[22360:21464:0729/202539.034:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[22360:23752:0729/202539.161:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[23968:20116:0729/202928.201:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[23968:20116:0729/202928.203:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[23968:20116:0729/202928.203:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[23968:20116:0729/202928.203:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[23968:19112:0729/202928.327:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[27880:20984:0729/203629.615:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[27880:20984:0729/203629.616:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[27880:20984:0729/203629.616:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[27880:20984:0729/203629.616:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[27880:9360:0729/203629.743:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[12384:20900:0729/205447.863:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[12384:20900:0729/205447.864:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[12384:20900:0729/205447.864:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[12384:20900:0729/205447.864:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[12384:10692:0729/205448.003:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[12204:1848:0729/210251.273:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[12204:1848:0729/210251.273:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[12204:1848:0729/210251.273:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[12204:1848:0729/210251.273:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[12204:13612:0729/210251.399:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[8084:7852:0729/210806.027:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[8084:7852:0729/210806.028:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[8084:7852:0729/210806.028:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[8084:7852:0729/210806.028:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[8084:24168:0729/210806.153:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[25936:22364:0729/211048.428:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[25936:22364:0729/211048.429:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[25936:22364:0729/211048.429:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[25936:22364:0729/211048.429:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[25936:29576:0729/211048.551:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[13036:27620:0729/211258.179:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[13036:27620:0729/211258.180:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[13036:27620:0729/211258.180:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[13036:27620:0729/211258.180:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[13036:29060:0729/211258.306:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[31488:12160:0729/211529.275:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[31488:12160:0729/211529.275:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[31488:12160:0729/211529.275:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[31488:12160:0729/211529.275:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[31488:4520:0729/211529.403:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[19748:21924:0729/212014.340:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[19748:21924:0729/212014.340:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[19748:21924:0729/212014.340:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[19748:21924:0729/212014.340:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[19748:22832:0729/212014.469:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[14120:23084:0729/212617.813:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[14120:23084:0729/212617.813:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[14120:23084:0729/212617.813:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[14120:23084:0729/212617.813:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[14120:1640:0729/212617.939:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[26680:6300:0730/160017.092:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[26680:6300:0730/160017.092:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[26680:6300:0730/160017.092:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[26680:6300:0730/160017.092:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[26680:19408:0730/160017.425:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[11568:25752:0730/160129.871:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[11568:25752:0730/160129.871:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[11568:25752:0730/160129.871:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[11568:25752:0730/160129.871:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[11568:17612:0730/160130.004:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[11568:17612:0730/160130.004:WARNING:n_flashIPCUtil.cpp(78)] n_flashIPCUtil::SetFlashFailed(true)
+[21816:28244:0730/160333.976:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[21816:28244:0730/160333.977:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[21816:28244:0730/160333.977:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[21816:28244:0730/160333.977:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[21816:23464:0730/160334.146:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[28684:26444:0730/160651.922:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[28684:26444:0730/160651.923:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[28684:26444:0730/160651.923:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[28684:26444:0730/160651.923:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[28684:16348:0730/160652.060:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[6264:27448:0730/161009.170:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[6264:27448:0730/161009.170:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[6264:27448:0730/161009.170:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[6264:27448:0730/161009.171:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[6264:14996:0730/161009.309:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[30320:11568:0730/161130.672:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[30320:11568:0730/161130.673:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[30320:11568:0730/161130.673:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[30320:11568:0730/161130.673:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[30320:14048:0730/161130.810:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[23144:26400:0730/161620.270:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[23144:26400:0730/161620.271:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[23144:26400:0730/161620.271:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[23144:26400:0730/161620.271:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[23144:8644:0730/161620.453:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[17756:7348:0730/162014.575:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[17756:7348:0730/162014.577:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[17756:7348:0730/162014.577:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[17756:7348:0730/162014.577:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[17756:30140:0730/162014.718:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[8000:20040:0730/162105.622:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[8000:20040:0730/162105.623:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[8000:20040:0730/162105.623:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[8000:20040:0730/162105.623:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[8000:28908:0730/162105.761:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[15896:19568:0730/162331.419:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[15896:19568:0730/162331.419:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v3.filemap.sogouime
+[15896:19568:0730/162331.419:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[15896:19568:0730/162331.419:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[15896:23228:0730/162331.523:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[15896:19568:0730/162331.541:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[8000:20040:0730/162333.001:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[8000:20040:0730/162333.008:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[13744:6860:0730/163014.506:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[13744:6860:0730/163014.508:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[13744:6860:0730/163014.508:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[13744:6860:0730/163014.508:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[13744:30084:0730/163014.652:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[36784:4636:0731/135941.584:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[36784:4636:0731/135941.584:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v2.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v2.filemap.sogouime43856646917
+[36784:4636:0731/135941.585:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[36784:4636:0731/135941.585:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[36784:34688:0731/135941.724:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[30152:28540:0731/155309.623:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[30152:28540:0731/155309.624:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v2.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v2.filemap.sogouime43856646917
+[30152:28540:0731/155309.624:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[30152:28540:0731/155309.624:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[30152:15084:0731/155309.778:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[30152:28540:0731/161055.648:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[30152:28540:0731/161055.648:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:2
+[30152:28540:0731/161055.648:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[30152:15084:0731/161055.760:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
+[15308:27436:0731/161827.352:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[15308:27436:0731/161827.353:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[15308:27436:0731/161827.353:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[15308:27436:0731/161827.353:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[15308:27436:0731/161827.354:ERROR:uiresource.cpp(742)] SGRenderLog:ReloadPack Failed
+[15308:27436:0731/161827.453:ERROR:uiresource.cpp(604)] SGRenderLog:ExtractEnvSkin failed
+[30840:7412:0731/162921.991:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[30840:7412:0731/162921.992:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[30840:7412:0731/162921.992:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[30840:7412:0731/162921.992:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[30840:7412:0731/162921.992:ERROR:uiresource.cpp(742)] SGRenderLog:ReloadPack Failed
+[30840:7412:0731/162922.055:ERROR:uiresource.cpp(604)] SGRenderLog:ExtractEnvSkin failed
+[13772:13808:0731/164034.175:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[13772:13808:0731/164034.177:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v3.filemap.sogouime43856646917
+[13772:13808:0731/164034.177:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[13772:13808:0731/164034.177:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[13772:13808:0731/164034.179:ERROR:uiresource.cpp(742)] SGRenderLog:ReloadPack Failed
+[13772:13808:0731/164034.279:ERROR:uiresource.cpp(604)] SGRenderLog:ExtractEnvSkin failed

@@ -84,6 +84,7 @@ ShanhaiSpirit/
 ├── tests/               # 单元测试
 ├── requirements.txt     # Python 依赖
 └── pyproject.toml       # 项目配置
+注意：请将 backgrounds 放入 `assets` 目录中。
 ```
 
 ## 贡献说明
